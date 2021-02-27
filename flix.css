@@ -664,7 +664,7 @@ form .btn {
 .animation-fade-4s,
 .animation-fade-5s {
   opacity: 0;
-  animation: fade;
+  animation: fade forwards;
 }
 .animation-fade--1s {
   animation-duration: .1s;
