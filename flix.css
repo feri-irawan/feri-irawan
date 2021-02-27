@@ -680,6 +680,7 @@ form .btn {
 .animation-fade--5s {
   animation-duration: .5s;
 }
+.animation-fade,
 .animation-fade-1s {
   animation-duration: 1s;
 }
