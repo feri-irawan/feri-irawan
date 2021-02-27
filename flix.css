@@ -644,6 +644,58 @@ form .btn {
   margin: 0;
 }
 
+
+
+
+
+
+
+
+
+/* Animation */
+.animation-fade--1s,
+.animation-fade--2s,
+.animation-fade--3s,
+.animation-fade--4s,
+.animation-fade--5s,
+.animation-fade-1s,
+.animation-fade-2s,
+.animation-fade-3s,
+.animation-fade-4s,
+.animation-fade-5s {
+  animation: fade;
+}
+.animation-fade--1s {
+  animation-duration: .1s;
+}
+.animation-fade--2s {
+  animation-duration: .2s;
+}
+.animation-fade--3s {
+  animation-duration: .3s;
+}
+.animation-fade--4s {
+  animation-duration: .4s;
+}
+.animation-fade--5s {
+  animation-duration: .5s;
+}
+.animation-fade-1s {
+  animation-duration: 1s;
+}
+.animation-fade-2s {
+  animation-duration: 2s;
+}
+.animation-fade-3s {
+  animation-duration: 3s;
+}
+.animation-fade-4s {
+  animation-duration: 4s;
+}
+.animation-fade-5s {
+  animation-duration: 5s;
+}
+
 @font-face {
   font-family: Poppins;
   src: url(Poppins-Regular.otf);
