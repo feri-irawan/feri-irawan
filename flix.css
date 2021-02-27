@@ -619,6 +619,7 @@ form * {
   color: #555555;
   transition: .3s;
   width: 100%;
+  font-size: 14px;
 }
 .input-group .label-float {
   position: absolute;
