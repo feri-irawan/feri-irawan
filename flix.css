@@ -1,0 +1,650 @@
+* {
+  box-sizing: border-box;
+}
+html, body {
+  padding: 0;
+  margin: 0;
+}
+/* PADDING */
+.p-0 {
+  padding: 0;
+}
+.p-5 {
+  padding: 5px;
+}
+.p-10 {
+  padding: 10px;
+}
+.p-15 {
+  padding: 15px;
+}
+.p-20 {
+  padding: 20px;
+}
+.p-25 {
+  padding: 25px;
+}
+
+/* PADDING TOP */
+.pt-0 {
+  padding-top: 0;
+}
+.pt-5 {
+  padding-top: 5px;
+}
+.pt-10 {
+  padding-top: 10px;
+}
+.pt-20 {
+  padding-top: 20px;
+}
+.pt-25 {
+  padding-top: 25px;
+}
+.pt-30 {
+  padding-top: 30px;
+}
+
+/* PADDING BOTTOM */
+.pb-0 {
+  padding-bottom: 0;
+}
+.pb-5 {
+  padding-bottom: 5px;
+}
+.pb-10 {
+  padding-bottom: 10px;
+}
+.pb-20 {
+  padding-bottom: 20px;
+}
+.pb-25 {
+  padding-bottom: 25px;
+}
+
+/* PADDING LEFT */
+.pl-0 {
+  padding-left: 0;
+}
+.pl-5 {
+  padding-left: 5px;
+}
+.pl-10 {
+  padding-left: 10px;
+}
+.pl-20 {
+  padding-left: 20px;
+}
+.pl-25 {
+  padding-left: 25px;
+}
+
+/* PADDING RIGHT */
+.pr-0 {
+  padding-right: 0;
+}
+.pr-5 {
+  padding-right: 5px;
+}
+.pr-10 {
+  padding-right: 10px;
+}
+.pr-20 {
+  padding-right: 20px;
+}
+.pr-25 {
+  padding-right: 25px;
+}
+
+
+/* MARGIN */
+.m-0 {
+  margin: 0;
+}
+.m-5 {
+  margin: 5px;
+}
+.m-10 {
+  margin: 10px;
+}
+.m-15 {
+  margin: 15px;
+}
+.m-20 {
+  margin: 20px;
+}
+.m-25 {
+  margin: 25px;
+}
+.m-0-auto {
+  margin: 0 auto;
+}
+.m-auto {
+  margin: auto;
+}
+
+/* MARGIN TOP */
+.mt-0 {
+  margin-top: 0;
+}
+.mt-5 {
+  margin-top: 5px;
+}
+.mt-10 {
+  margin-top: 10px;
+}
+.mt-20 {
+  margin-top: 20px;
+}
+.mt-25 {
+  margin-top: 25px;
+}
+
+/* MARGIN BOTTOM */
+.mb-0 {
+  margin-bottom: 0;
+}
+.mb-5 {
+  margin-bottom: 5px;
+}
+.mb-10 {
+  margin-bottom: 10px;
+}
+.mb-20 {
+  margin-bottom: 20px;
+}
+.mb-25 {
+  margin-bottom: 25px;
+}
+
+/* MARGIN LEFT */
+.ml-0 {
+  margin-left: 0;
+}
+.ml-5 {
+  margin-left: 5px;
+}
+.ml-10 {
+  margin-left: 10px;
+}
+.ml-20 {
+  margin-left: 20px;
+}
+.ml-25 {
+  margin-left: 25px;
+}
+
+/* MARGIN RIGHT */
+.mr-0 {
+  margin-right: 0;
+}
+.mr-5 {
+  margin-right: 5px;
+}
+.mr-10 {
+  margin-right: 10px;
+}
+.mr-20 {
+  margin-right: 20px;
+}
+.mr-25 {
+  margin-right: 25px;
+}
+
+/* FONTS */
+.ff-poppins {
+  font-family: Poppins;
+}
+.ff-proxima {
+  font-family: Proxima;
+}
+.ff-montserrat {
+  font-family: Montserrat;
+}
+.ff-serif {
+  font-family: Helvetica,Arial,sans-serif;
+}
+
+/* FONT SIZE */
+.fz-12 {
+  font-size: 12px;
+}
+.fz-14 {
+  font-size: 14px;
+}
+.fz-16 {
+  font-size: 16px;
+}
+.fz-18 {
+  font-size: 18px;
+}
+.fz-20 {
+  font-size: 20px;
+}
+.fz-25 {
+  font-size: 25px;
+}
+.fz-30 {
+  font-size: 30px;
+}
+
+/* TEXT TRANSFORM */
+.uppercase {
+  text-transform: uppercase;
+}
+.capitalize {
+  text-transform: capitalize;
+}
+.lowercase {
+  text-transform: lowercase;
+}
+/* DISPLAY */
+.d-block {
+  display: block;
+}
+.d-inline {
+  display: inline;
+}
+.d-inline-block {
+  display: inline-block;
+}
+.d-grid {
+  display: grid;
+}
+.d-flex {
+  display: flex;
+}
+
+
+/* FLEXBOX */
+.flex-1 {
+  flex: 1;
+}
+.flex-50 {
+  flex: 1 1 50%;
+}
+.flex-wrap {
+  flex-flow: wrap;
+}
+.jc-center {
+  justify-content: center;
+}
+.jc-between {
+  justify-content: space-between;
+}
+.jc-around {
+  justify-content: space-around;
+}
+.jc-evenly {
+  justify-content: space-evenly;
+}
+.ai-center {
+  align-items: center;
+}
+.jc-ai-center {
+  align-items: center;
+  justify-content: center;
+}
+.as-center {
+  align-self: center;
+}
+.js-center {
+  justify-self: center;
+}
+.js-as-center {
+  align-self: center;
+  justify-self: center;
+}
+
+/* TEXT ALIGN */
+.text-center {
+  text-align: center;
+}
+/* TEXT DECORATION */
+.td-none, .td-none a {
+  text-decoration: none;
+}
+/* COLOR */
+.c-red {
+  color: red;
+}
+.c-orange {
+  color: orange;
+}
+.c-yellow {
+  color: yellow;
+}
+.c-green {
+  color: green;
+}
+.c-blue {
+  color: blue;
+}
+.c-dark {
+  color: #101010;
+}
+.c-white {
+  color: #fff;
+}
+.c-aqua {
+  color: #3bd8ff;
+}
+
+
+/* ALL COLOR */
+.all-c-red * {
+  color: red;
+}
+.all-c-orange * {
+  color: orange;
+}
+.all-c-yellow * {
+  color: yellow;
+}
+.all-c-green * {
+  color: green;
+}
+.all-c-blue * {
+  color: blue;
+}
+.all-c-dark * {
+  color: #101010;
+}
+.all-c-white * {
+  color: #fff;
+}
+.all-c-aqua * {
+  color: #3bd8ff;
+}
+/* BACKGROUND COLOR */
+.bg-red {
+  background-color: red;
+}
+.bg-orange {
+  background-color: orange;
+}
+.bg-yellow {
+  background-color: yellow;
+}
+.bg-green {
+  background-color: green;
+}
+.bg-blue {
+  background-color: blue;
+}
+.bg-dark {
+  background-color: #101010;
+}
+.bg-white {
+  background-color: #fff;
+}
+.bg-aqua {
+  background-color: #3bd8ff;
+}
+
+/* BORDER RADIUS */
+.radius-5 {
+  border-radius: 5px;
+}
+.radius-10 {
+  border-radius: 10px;
+}
+.radius-15 {
+  border-radius: 15px;
+}
+.radius-20 {
+  border-radius: 20px;
+}
+.radius-50 {
+  border-radius: 50px;
+}
+.radius-100 {
+  border-radius: 100px;
+}
+
+/* BORDER RADIUS ONE */
+.radius-1-5 {
+  border-top-left-radius: 5px;
+}
+.radius-1-10 {
+  border-top-left-radius: 10px;
+}
+.radius-1-15 {
+  border-top-left-radius: 15px;
+}
+.radius-1-20 {
+  border-top-left-radius: 20px;
+}
+.radius-1-50 {
+  border-top-left-radius: 50px;
+}
+.radius-1-100 {
+  border-top-left-radius: 100px;
+}
+
+/* BORDER RADIUS TWO */
+.radius-2-5 {
+  border-top-right-radius: 5px;
+}
+.radius-2-10 {
+  border-top-right-radius: 10px;
+}
+.radius-2-15 {
+  border-top-right-radius: 15px;
+}
+.radius-2-20 {
+  border-top-right-radius: 20px;
+}
+.radius-2-50 {
+  border-top-right-radius: 50px;
+}
+.radius-2-100 {
+  border-top-right-radius: 100px;
+}
+
+/* BORDER RADIUS THREE */
+.radius-3-5 {
+  border-bottom-right-radius: 5px;
+}
+.radius-3-10 {
+  border-bottom-right-radius: 10px;
+}
+.radius-3-15 {
+  border-bottom-right-radius: 15px;
+}
+.radius-3-20 {
+  border-bottom-right-radius: 20px;
+}
+.radius-3-50 {
+  border-bottom-right-radius: 50px;
+}
+.radius-3-100 {
+  border-bottom-right-radius: 100px;
+}
+
+/* BORDER RADIUS FOUR */
+.radius-4-5 {
+  border-bottom-left-radius: 5px;
+}
+.radius-4-10 {
+  border-bottom-left-radius: 10px;
+}
+.radius-4-15 {
+  border-bottom-left-radius: 15px;
+}
+.radius-4-20 {
+  border-bottom-left-radius: 20px;
+}
+.radius-4-50 {
+  border-bottom-left-radius: 50px;
+}
+.radius-5-100 {
+  border-bottom-left-radius: 100px;
+}
+
+
+
+/* BORDER STYLE */
+.bd-solid {
+  border-style: solid;
+}
+.bd-dashed {
+  border-style: dashed;
+}
+.bd-dotted {
+  border-style: dotted;
+}
+
+/* BORDER WIDTH */
+.bd-1 {
+  border-width: 2px;
+}
+.bd-3 {
+  border-width: 3px;
+}
+.bd-4 {
+  border-width: 4px;
+}
+.bd-5 {
+  border-width: 5px;
+}
+
+
+ /* POSITION */
+ .pos-absolute {
+   position: absolute;
+ }
+ .pos-fixed {
+   position: fixed;
+ }
+ .pos-relative {
+   position: relative;
+ }
+ .pos-static {
+   position: static;
+ }
+ .pos-sticky {
+   position: sticky;
+ }
+ .t-0 {
+   top: 0;
+ }
+ .b-0 {
+   bottom: 0;
+ }
+ .l-0 {
+   left: 0;
+ }
+ .r-0 {
+   right: 0;
+ }
+ 
+ 
+ /* WIDTH */
+.w-0 {
+  width: 0;
+}
+.w-50 {
+  width: 50%;
+}
+.w-100 {
+  width: 100%;
+}
+
+
+/* OVERFLOW */
+.ov-scoll {
+  overflow: scroll;
+}
+.ov-hidden {
+  overflow: hidden;
+}
+.ov-auto {
+  overflow: auto;
+}
+.ov-visible {
+  overflow: visible;
+}
+
+/* OVERFLOW X */
+.ovx-scroll {
+  overflow-x: scroll;
+}
+.ovx-hidden {
+  overflow-x: hidden;
+}
+.ovx-auto {
+  overflow-x: auto;
+}
+.ovx-visible {
+  overflow-x: visible;
+}
+
+/* OVERFLOW Y */
+.ovy-scoll {
+  overflow-y: scroll;
+}
+.ovy-hidden {
+  overflow-y: hidden;
+}
+.ovy-auto {
+  overflow-y: auto;
+}
+.ovy-visible {
+  overflow-y: visible;
+}
+
+
+/* FORM */
+form * {
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.input-group {
+  display: block;
+  position: relative;
+  margin-bottom: 20px;
+}
+.input-group input,
+.input-group textarea {
+  border: 1px solid #dcdcdc;
+  padding: 8px 15px;
+  border-radius: 5px !important;
+  color: #555555;
+  transition: .3s;
+  width: 100%;
+}
+.input-group .label-float {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  padding: 0px 5px;
+  font-size: 14px;
+  transition: .3s;
+  color: #555555;
+}
+.input-group input:hover ~ .label-float,
+.input-group input:active ~ .label-float,
+.input-group input:focus ~ .label-float,
+.input-group input:valid ~ .label-float,
+.input-group textarea:hover ~ .label-float,
+.input-group textarea:focus ~ .label-float,
+.input-group textarea:active ~ .label-float,
+.input-group textarea:valid ~ .label-float {
+  top: -11px;
+  background: #fff;
+}
+form .btn {
+  margin-bottom: 20px;
+}
+.btn {
+  display: inline-block;
+  padding: 8px 10px;
+  border-radius: 5px;
+  margin: 0;
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url(Poppins-Regular.otf);
+}
