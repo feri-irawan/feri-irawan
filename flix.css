@@ -663,6 +663,7 @@ form .btn {
 .animation-fade-3s,
 .animation-fade-4s,
 .animation-fade-5s {
+  opacity: 0;
   animation: fade;
 }
 .animation-fade--1s {
@@ -697,6 +698,12 @@ form .btn {
   animation-duration: 5s;
 }
 
+
+@keyframes fade {
+  to {
+    opacity: 1;
+  }
+}
 @font-face {
   font-family: Poppins;
   src: url(Poppins-Regular.otf);
