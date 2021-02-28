@@ -196,9 +196,9 @@ let matched = window.matchMedia('(prefers-color-scheme: dark)').matches;
 
 if(matched) {
   let rootStyle = document.documentElement;
-  root.style.setProperty('--bg-jumbotron', "hsl(197,100%,25%)");
-  root.style.setProperty('--color', "hsl(30,1%,55%)");
-  root.style.setProperty('--bg-section-project', "hsl(0,0%,8%)");
+  rootStyle.style.setProperty('--bg-jumbotron', "hsl(197,100%,25%)");
+  rootStyle.style.setProperty('--color', "hsl(30,1%,55%)");
+  rootStyle.style.setProperty('--bg-section-project', "hsl(0,0%,8%)");
   
   
   
