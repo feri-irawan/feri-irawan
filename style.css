@@ -33,7 +33,7 @@ p {
   color: var(--color);
 }
 .wave-grey {
-  fill: #f1f1f1;
+  fill: var(--bg-section-project);
 }
 .wave-white {
   fill: #fff;
