@@ -3,7 +3,8 @@ Halo kawan-kawan selamat datang di projek portofolio pertama saya. Semoga isi re
 
 ## Demo:
 [https://feri-irawan.netlify.app/](https://feri-irawan.netlify.app/ "Feri Irawan")
-## Dibuat menggunakan:
+
+> Dibuat menggunakan:
   * HTML 
   * CSS 
   * JS 
