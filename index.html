@@ -137,7 +137,6 @@
 </section>
 <!-- AKHIR CONTACT -->
 
-<div id="pesan-email"></div>
 
 <!-- FOOTER -->
 <section id="footer" class="ov-hidden">
@@ -158,6 +157,7 @@
 </section>
 <!-- AKHIR FOOTER -->
 
+<div id="alert"></div>
 
 
 
@@ -180,7 +180,7 @@ if (mail == 'success') {
   var pesanEmail = document.createElement('div');
   pesanEmail.className = 'pesan-email';
   pesanEmail.innerHTML = '<i class="fas fa-envelope-open-text"></i> Successfully sending message!';
-  document.getElementById('pesan-email').appendChild(pesanEmail);
+  document.getElementById('alert').appendChild(pesanEmail);
   
   setTimeout(function() {
         pesanEmail.remove();
