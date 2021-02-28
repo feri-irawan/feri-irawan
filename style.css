@@ -15,13 +15,13 @@ h1,h2,h3,h4 {
   font-family: Montserrat;
 }
 p,
-.title,
-.box .active * {
+.title {
   color: var(--color);
 }
 footer,
 .c-white,
 .social-media a i,
+.box .active *,
 .pesan-email,
 #jumbotron {
   color: var(--color-white);
