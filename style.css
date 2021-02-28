@@ -11,7 +11,8 @@
 h1,h2,h3,h4 {
   font-family: Montserrat;
 }
-p {
+p,
+.title {
   color: var(--color);
 }
 .wave-grey {
@@ -69,7 +70,6 @@ footer,
 }
 .title {
   text-transform: uppercase;
-  color: var(--color);
   font-family: Montserrat;
   font-weight: 700;
   position: relative;
