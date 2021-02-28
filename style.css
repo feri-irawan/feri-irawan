@@ -163,6 +163,7 @@ textarea:hover ~ .label-float {
   /* bottom: 100vmax; */
   transition: .5s;
 }
+
 #pesan-email {
   position: absolute;
   top: 0;
