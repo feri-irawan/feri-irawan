@@ -109,7 +109,7 @@ footer,
   bottom: 0;
   left: 0;
   right: 0;
-  background: var(--bg-semi-trasparent);
+  background: var(--bg-semi-transparent);
   border-radius: 10px;
   backdrop-filter: blur(2px);
   display: flex;
