@@ -181,7 +181,10 @@ if (mail == 'success') {
   pesanEmail.className = 'pesan-email';
   pesanEmail.innerHTML = 'Berhasil mengirim pesan!';
   document.getElementById('pesan-email').appendChild(pesanEmail);
-  setTimeout(document.getElementById('pesan-email').remove(), 5000);
+  setTimeout(function() {
+      pesanEmail.remove();
+  }, 1000);
+
   console.log(mailSuccess);
 } else {
   console.log('error mail');
