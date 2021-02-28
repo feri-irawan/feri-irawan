@@ -18,7 +18,6 @@ footer,
 .title,
 .c-white,
 .box .active *,
-.title-project,
 .social-media a i,
 .pesan-email,
 #jumbotron {
@@ -124,6 +123,7 @@ footer,
   position: absolute;
   bottom: 0;
   left: 0;
+  color: #fff;
   background: var(--bg-semi-trasparent);
   font-weight: bold;
   padding: 5px 15px;
