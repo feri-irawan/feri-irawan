@@ -201,7 +201,8 @@ textarea:hover ~ .label-float {
   transition: .5s;
 }
 
-.pesan-email {
+.pesan-email,
+.darkmode-info {
   position: absolute;
   top: 0;
   left: 0;
