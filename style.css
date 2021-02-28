@@ -30,7 +30,7 @@ footer {
 }
 #about,
 #contact,
-#contact form * {
+#contact form input {
   background: var(--bg-white);
 }
 #jumbotron {
