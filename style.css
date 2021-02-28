@@ -4,6 +4,7 @@
   --bg-white: #ffffff;
   --bg-jumbotron: #3bd8ff;
   --bg-section-project: #f1f1f1;
+  --bg-semi-trasparent: #00ccffad;
   --box-shadow: #00000020;
 }
 body {
@@ -105,7 +106,7 @@ footer,
   bottom: 0;
   left: 0;
   right: 0;
-  background: var(--bg-jumbotron)ad;
+  background: var(--bg-semi-trasparent);
   border-radius: 10px;
   backdrop-filter: blur(2px);
   display: flex;
