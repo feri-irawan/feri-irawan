@@ -175,9 +175,12 @@ console.log(queryString);
 var urlParams = new URLSearchParams(queryString);
 var mail = urlParams.get('mail');
 if (mail == 'success') {
-  var pesanMail = document.createElement("div");
-  pesanMail.setAttribute("id", "pesan-email");
-  document.getElementById("pesan-email").innerHTML = "Berhasil mengirim pesan!";
+
+  var pesanEmail = document.createElement('div');
+  pesanEmail.className = 'pesan-email';
+  pesanEmail.innerHTML = 'Berhasil mengirim pesan!';
+  document.getElementById('demo').appendChild(pesanEmail);
+
   console.log(mailSuccess);
 } else {
   console.log('error mail');
