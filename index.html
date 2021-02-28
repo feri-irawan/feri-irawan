@@ -179,7 +179,7 @@ if (mail == 'success') {
 
   var pesanEmail = document.createElement('div');
   pesanEmail.className = 'pesan-email';
-  pesanEmail.innerHTML = '<i class="fas fa-envelope-open-text"></i> Berhasil mengirim pesan!';
+  pesanEmail.innerHTML = '<i class="fas fa-envelope-open-text"></i> Successfully sending message!';
   document.getElementById('pesan-email').appendChild(pesanEmail);
   
   setTimeout(function() {
@@ -203,6 +203,14 @@ if(matched) {
   rootStyle.style.setProperty('--color-white', "#8d8c8b");
   rootStyle.style.setProperty('--bg-section-project', "#141414");
   
+  var pesanEmail = document.createElement('div');
+  pesanEmail.className = 'darkmode-info';
+  pesanEmail.innerHTML = 'Your smartphone in dark mode';
+  document.getElementById('pesan-email').appendChild(pesanEmail);
+  
+  setTimeout(function() {
+        pesanEmail.remove();
+    }, 5000);
 	console.log('Currently in dark mode');
 } else {
 	console.log('Currently not in dark mode');
