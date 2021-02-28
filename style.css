@@ -170,8 +170,14 @@ footer,
 input, textarea {
   border-color: var(--bg-jumbotron) !important;
 }
-input:hover ~ .label-float,
-textarea:hover ~ .label-float {
+.input-group input:hover ~ .label-float,
+.input-group input:active ~ .label-float,
+.input-group input:focus ~ .label-float,
+.input-group input:valid ~ .label-float,
+.input-group textarea:hover ~ .label-float,
+.input-group textarea:focus ~ .label-float,
+.input-group textarea:active ~ .label-float,
+.input-group textarea:valid ~ .label-float {
   color: var(--bg-jumbotron);
   background: var(--bg-white) !important;
 }
