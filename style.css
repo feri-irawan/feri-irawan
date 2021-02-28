@@ -16,14 +16,14 @@ h1,h2,h3,h4 {
 }
 p,
 .title,
-.box .active *,
-.social-media a i,
-.pesan-email,
-#jumbotron {
+.box .active * {
   color: var(--color);
 }
 footer,
-.c-white {
+.c-white,
+.social-media a i,
+.pesan-email,
+#jumbotron {
   color: var(--color-white);
 }
 .wave-grey {
