@@ -164,7 +164,7 @@ textarea:hover ~ .label-float {
   transition: .5s;
 }
 
-#pesan-email {
+.pesan-email {
   position: absolute;
   top: 0;
   left: 0;
