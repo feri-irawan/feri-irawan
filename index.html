@@ -175,7 +175,7 @@ const queryString = window.location.search;
 console.log(queryString);
 const urlParams = new URLSearchParams(queryString);
 const mailSuccess = urlParams.get('mailSuccess');
-if (mailSuccess == "mailSuccess") {
+if (typeof mailSuccess == "mailSuccess") {
   document.getElementById("pesan-email").innerHTML = "Berhasil mengirim pesan!";
   console.log(mailSuccess);
 } else {
