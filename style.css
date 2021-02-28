@@ -21,7 +21,6 @@ p,
 footer,
 .c-white,
 .social-media a i,
-.box .active *,
 .pesan-email,
 form .btn,
 #jumbotron {
@@ -110,6 +109,7 @@ footer,
   left: 0;
   right: 0;
   background: var(--bg-semi-transparent);
+  color: #fff;
   border-radius: 10px;
   backdrop-filter: blur(2px);
   display: flex;
