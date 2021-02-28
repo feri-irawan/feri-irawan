@@ -173,7 +173,7 @@ input, textarea {
 input:hover ~ .label-float,
 textarea:hover ~ .label-float {
   color: var(--bg-jumbotron);
-  background: var(--bg-white);
+  background: var(--bg-white) !important;
 }
 
 
