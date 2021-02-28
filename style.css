@@ -13,7 +13,12 @@ h1,h2,h3,h4 {
 }
 p,
 .title,
-.c-white {
+.c-white,
+.box .active *,
+.title-project,
+.social-media a i,
+.pesan-email,
+#jumbotron {
   color: var(--color);
 }
 .wave-grey {
@@ -45,7 +50,6 @@ footer,
 #jumbotron {
   padding-top: 10rem;
   text-align: center;
-  color: var(--color);
   font-size: 14px;
 }
 .img-profile {
@@ -109,9 +113,7 @@ footer,
   opacity: 0;
   font-size: 30px;
 }
-.box .active * {
-  color: var(--color);
-}
+
 .box-project .box:hover .active {
   opacity: 1;
 }
@@ -120,7 +122,6 @@ footer,
   bottom: 0;
   left: 0;
   background: var(--bg-semi-trasparent);
-  color: var(--color);
   font-weight: bold;
   padding: 5px 15px;
   border-radius: 0 10px 0 10px;
@@ -172,7 +173,6 @@ textarea:hover ~ .label-float {
 .social-media a i {
   display: inline-block;
   margin: 5px;
-  color: var(--color);
 }
 .fa-facebook:hover {
   color: #3b5998;
@@ -198,7 +198,6 @@ textarea:hover ~ .label-float {
   left: 0;
   padding: 5px 10px;
   background: var(--color);
-  color: var(--color);
   border-radius: 0 0 5px 0;
   font-size: 14px;
 }
