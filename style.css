@@ -25,7 +25,8 @@ p {
 }
 
 #jumbotron,
-footer {
+footer,
+#contact form button {
   background: var(--bg-jumbotron);
 }
 #about,
