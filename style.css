@@ -64,7 +64,7 @@ footer,
   display: flex;
   justify-content: center;
   align-items: center;
-  border: 5px solid var(--color);
+  border: 5px solid var(--bg-section-project);
   margin: auto;
 }
 .img-profile img {
