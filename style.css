@@ -46,7 +46,7 @@ footer,
 #contact form input,
 #contact form textarea,
 #contact form input:hover,
-#contact form textarea:hover{
+#contact form textarea:hover {
   background: var(--bg-white);
 }
 
