@@ -23,6 +23,7 @@ footer,
 .social-media a i,
 .box .active *,
 .pesan-email,
+form .btn,
 #jumbotron {
   color: var(--color-white);
 }
