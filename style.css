@@ -7,6 +7,22 @@
   --box-shadow: #00000020;
   --wave-blue: #3bd8ff;
 }
+/* DARK MODE
+JUMBOTRON 
+hsl(197,100%,25%)
+
+TEKS WHITE
+hsl(30,1%,55%)
+
+WAVE GREY
+hsl(0,0%,52%)
+
+BACKGROUND BLACK
+hsl(0,0%,8%)
+
+TEKS TITLE COLOR IN BACKGROUND BLACK
+hsl(0,0%,38%)
+*/
 body {
   filter: ;
 }
