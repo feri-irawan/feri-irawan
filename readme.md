@@ -14,7 +14,7 @@ Halo kawan-kawan selamat datang di projek portofolio pertama saya. Semoga isi re
     * AOS (untuk animasi scroll)
   * FONTS
     * Poppins
-    * Montserrat
+    * Montserrat (Google Fonts)
   * JS FILE
     * AOS.js (untuk animasi scroll)
     * Bootstrap.js
