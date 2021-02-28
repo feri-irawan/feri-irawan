@@ -1,4 +1,4 @@
-#Selamat Datang
+# Selamat Datang
 Halo kawan-kawan selamat datang di projek portofolio pertama saya. Semoga isi repository ini bisa dijadikan pembelajaran 😄
 
 > Dibuat menggunakan:
@@ -19,4 +19,4 @@ Halo kawan-kawan selamat datang di projek portofolio pertama saya. Semoga isi re
   * AOS.js (untuk animasi scroll)
   * Bootstrap.js
   
-
+## Semoga Bermanfaat 😊
