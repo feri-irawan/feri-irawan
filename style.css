@@ -29,8 +29,7 @@ form .btn,
 .wave-grey {
   fill: var(--bg-section-project);
 }
-.wave-white,
-.label-float {
+.wave-white {
   fill: var(--bg-white);
 }
 .wave-blue {
@@ -174,6 +173,7 @@ input, textarea {
 input:hover ~ .label-float,
 textarea:hover ~ .label-float {
   color: var(--bg-jumbotron);
+  background: var(--bg-white);
 }
 
 
