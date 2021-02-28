@@ -14,14 +14,16 @@ h1,h2,h3,h4 {
   font-family: Montserrat;
 }
 p,
-footer,
 .title,
-.c-white,
 .box .active *,
 .social-media a i,
 .pesan-email,
 #jumbotron {
   color: var(--color);
+}
+footer,
+.c-white {
+  color: var(--color-white);
 }
 .wave-grey {
   fill: var(--bg-section-project);
