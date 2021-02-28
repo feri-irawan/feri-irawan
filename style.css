@@ -29,7 +29,8 @@ form .btn,
 .wave-grey {
   fill: var(--bg-section-project);
 }
-.wave-white {
+.wave-white,
+.label-float {
   fill: var(--bg-white);
 }
 .wave-blue {
