@@ -5,7 +5,7 @@
   --bg-white: #ffffff;
   --bg-jumbotron: #3bd8ff;
   --bg-section-project: #f1f1f1;
-  --bg-semi-trasparent: #00ccffad;
+  --bg-semi-transparent: #00ccffad;
   --box-shadow: #00000020;
 }
 body {
@@ -128,7 +128,7 @@ footer,
   bottom: 0;
   left: 0;
   color: #fff;
-  background: var(--bg-semi-trasparent);
+  background: var(--bg-semi-transparent);
   font-weight: bold;
   padding: 5px 15px;
   border-radius: 0 10px 0 10px;
