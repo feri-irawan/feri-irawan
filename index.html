@@ -204,7 +204,7 @@ if(matched) {
   
   var pesanEmail = document.createElement('div');
   pesanEmail.className = 'darkmode-info';
-  pesanEmail.innerHTML = 'Your smartphone in dark mode';
+  pesanEmail.innerHTML = '<i class="fas fa-moon-stars"></i> Your smartphone in dark mode';
   document.getElementById('alert').appendChild(pesanEmail);
   
   setTimeout(function() {
@@ -212,7 +212,7 @@ if(matched) {
     }, 5000);
 	console.log('Currently in dark mode');
 } else {
-	console.log('<i class="fas fa-moon-stars"></i> Currently not in dark mode');
+	console.log('Currently not in dark mode');
 }
 </script>
 </body>
