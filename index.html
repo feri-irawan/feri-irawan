@@ -175,7 +175,10 @@ const queryString = window.location.search;
 console.log(queryString);
 const urlParams = new URLSearchParams(queryString);
 const mailSuccess = urlParams.get('mailSuccess');
-console.log(mailSuccess);
+if (mailSuccess !== "error") {
+  document.getElementById("pesan-email").innerHTML = "Berhasil mengirim pesan!";
+  console.log(mailSuccess);
+}
 </script>
 </body>
 </html>
