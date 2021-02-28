@@ -196,6 +196,7 @@ let matched = window.matchMedia('(prefers-color-scheme: dark)').matches;
 
 if(matched) {
   let rootStyle = document.documentElement;
+  rootStyle.style.setProperty('--bg-white', "#0a0a0a");
   rootStyle.style.setProperty('--bg-jumbotron', "#005b80");
   rootStyle.style.setProperty('--color', "#8d8c8b");
   rootStyle.style.setProperty('--bg-section-project', "#141414");
