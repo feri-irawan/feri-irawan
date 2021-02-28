@@ -41,10 +41,14 @@ p {
 .wave-blue {
   fill: var(--bg-jumbotron);
 }
+
+#jumbotron, footer {
+  background: var(--bg-jumbotron);
+}
+
 #jumbotron {
   padding-top: 10rem;
   text-align: center;
-  background: var(--bg-jumbotron);
   color: #fff;
   font-size: 14px;
 }
