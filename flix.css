@@ -629,6 +629,7 @@ form * {
   font-size: 14px;
   transition: .3s;
   color: #555555;
+  border-radius: 5px;
 }
 .input-group input:hover ~ .label-float,
 .input-group input:active ~ .label-float,
