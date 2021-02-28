@@ -171,10 +171,10 @@
 </script>
 
 <script>
-const queryString = window.location.search;
+var queryString = window.location.search;
 console.log(queryString);
-const urlParams = new URLSearchParams(queryString);
-const mail = urlParams.get('mail');
+var urlParams = new URLSearchParams(queryString);
+var mail = urlParams.get('mail');
 if (mail == 'success') {
   document.getElementById("pesan-email").innerHTML = "Berhasil mengirim pesan!";
   console.log(mailSuccess);
