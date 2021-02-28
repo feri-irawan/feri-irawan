@@ -163,13 +163,12 @@ textarea:hover ~ .label-float {
   /* bottom: 100vmax; */
   transition: .5s;
 }
-.toggle-open-nav {
-  background: #fff;
-  color: var(--bg-jumbotron);
-  /* margin-bottom: -30px; */
-  margin: 0 auto -40px;
-  max-width: max-content;
-  padding: 10px 20px 0px;
-  border-radius: 0 0 100px 100px;
-  /* clip-path: polygon(50% 100%, 50% 100%, 100% 0, 0 0); */
+#pesan-mail {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 5px 10px;
+  background: var(--color);
+  color: #fff;
+  border-radius: 0 0 5px 0;
 }
