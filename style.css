@@ -172,4 +172,5 @@ textarea:hover ~ .label-float {
   background: var(--color);
   color: #fff;
   border-radius: 0 0 5px 0;
+  font-size: 14px;
 }
