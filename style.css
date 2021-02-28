@@ -18,7 +18,7 @@ p {
   fill: var(--bg-section-project);
 }
 .wave-white {
-  fill: #fff;
+  fill: var(--bg-white);
 }
 .wave-blue {
   fill: var(--bg-jumbotron);
