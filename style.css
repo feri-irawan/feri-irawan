@@ -105,7 +105,7 @@ footer,
   bottom: 0;
   left: 0;
   right: 0;
-  background: var(--bg-jumbotron);
+  background: var(--bg-jumbotron)ad;
   border-radius: 10px;
   backdrop-filter: blur(2px);
   display: flex;
