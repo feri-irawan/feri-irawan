@@ -24,10 +24,13 @@ p {
   fill: var(--bg-jumbotron);
 }
 
-#jumbotron, footer {
+#jumbotron,
+footer {
   background: var(--bg-jumbotron);
 }
-#about, #contact {
+#about,
+#contact,
+#contact form * {
   background: var(--bg-white);
 }
 #jumbotron {
