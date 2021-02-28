@@ -44,9 +44,7 @@ footer,
 #about,
 #contact,
 #contact form input,
-#contact form textarea,
-#contact form input:active,
-#contact form textarea:active {
+#contact form textarea {
   background: var(--bg-white);
 }
 
