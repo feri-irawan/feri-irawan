@@ -171,6 +171,8 @@
 </script>
 
 <script>
+const queryString = window.location.search;
+console.log(queryString);
 const urlParams = new URLSearchParams(queryString);
 const mailSuccess = urlParams.get('mailSuccess');
 console.log(mailSuccess);
