@@ -4,13 +4,24 @@
   --bg-jumbotron: #3bd8ff;
   --bg-section-project: #f1f1f1;
   --bg-semi-trasparent: #00ccffad;
-  --box-shadow: #00000020
+  --box-shadow: #00000020;
+  --wave-blue: #3bd8ff;
+}
+body {
+  filter: ;
 }
 h1,h2,h3,h4 {
   font-family: Montserrat;
 }
 p {
   color: var(--color);
+}
+.wave-grey
+.wave-white {
+  
+}
+.wave-blue {
+  fill: var(--wave-blue);
 }
 #jumbotron {
   padding-top: 10rem;
