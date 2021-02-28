@@ -16,12 +16,14 @@ h1,h2,h3,h4 {
 p {
   color: var(--color);
 }
-.wave-grey
+.wave-grey {
+  fill: #f1f1f1;
+}
 .wave-white {
-  
+  fill: #fff;
 }
 .wave-blue {
-  fill: var(--wave-blue);
+  fill: var(--bg-jumbotron);
 }
 #jumbotron {
   padding-top: 10rem;
