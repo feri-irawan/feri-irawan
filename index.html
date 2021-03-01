@@ -204,10 +204,10 @@ if(matched) {
   rootStyle.style.setProperty('--color-white', "#8d8c8b");
   rootStyle.style.setProperty('--bg-section-project', "#141414");
   
-  var pesanEmail = document.createElement('div');
-  pesanEmail.className = 'darkmode-info';
-  pesanEmail.innerHTML = '<i class="fas fa-moon-stars"></i> Your smartphone in dark mode';
-  document.getElementById('alert').appendChild(pesanEmail);
+  var darkInfo = document.createElement('div');
+  darkInfo.className = 'darkmode-info';
+  darkInfo.innerHTML = '<i class="fas fa-moon-stars"></i> Your smartphone in dark mode';
+  document.getElementById('alert').appendChild(darkInfo);
   
   setTimeout(function() {
     document.getElementById('message-status').remove();
