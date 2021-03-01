@@ -25,7 +25,24 @@
 
     <!-- Google fonts-->
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
-
+<!-- Jquery -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script>
+$(document).ready(function() { 
+    $("#contact-me").submit(function(e) {
+        e.preventDefault();
+        $.ajax({
+            url: 'http://contohku.epizy.com/mail.php',
+            type: 'get',
+            data: $(this).serialize(),             
+            success: function(data) {               
+            document.getElementById("contact-me").reset();
+            $('#message-status').html(data);              
+            }
+        });
+    });
+});
+</script>
 </head>
 <body class="animation-fade--5s">
 
@@ -168,8 +185,6 @@
 
 
 
-<!-- Jquery -->
-<script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 <!-- Bootstrap -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
 <!-- Aos -->
@@ -179,21 +194,6 @@
 </script>
 
 <script>
-$(document).ready(function() { 
-    $("#contact-me").submit(function(e) {
-        e.preventDefault();
-        $.ajax({
-            url: 'http://contohku.epizy.com/mail.php',
-            type: 'get',
-            data: $(this).serialize(),             
-            success: function(data) {               
-            document.getElementById("contact-me").reset();
-            $('#message-status').html(data);              
-            }
-        });
-    });
-});
-
 /*let queryString = window.location.search;
 console.log(queryString);
 var urlParams = new URLSearchParams(queryString);
