@@ -226,7 +226,7 @@ $(document).ready(function() {
         e.preventDefault();
         $.ajax({
             url: 'http://contohku.epizy.com/mail.php',
-            type: 'get',
+            type: 'GET',
             data: $(this).serialize(),             
             success: function(data) {               
             document.getElementById("contact-me").reset();
