@@ -213,7 +213,7 @@ input, textarea {
   top: 0;
   left: 0;
   padding: 5px 10px;
-  background: var(--color);
+  background: var(--bg-white);
   color: var(--color-white);
   border-radius: 0 0 5px 0;
   font-size: 14px;
