@@ -208,8 +208,7 @@ input, textarea {
   transition: .5s;
 }
 
-.pesan-email,
-.darkmode-info {
+#alert {
   position: absolute;
   top: 0;
   left: 0;
