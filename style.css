@@ -217,4 +217,5 @@ input, textarea {
   color: var(--color-white);
   border-radius: 0 0 5px 0;
   font-size: 14px;
+  display: none;
 }
