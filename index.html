@@ -210,8 +210,8 @@ if(matched) {
   document.getElementById('alert').appendChild(pesanEmail);
   
   setTimeout(function() {
-        pesanEmail.remove();
-    }, 5000);
+    document.getElementById('message-status').remove();
+   }, 5000);
 	console.log('Currently in dark mode');
 } else {
 	console.log('Currently not in dark mode');
