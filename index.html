@@ -181,7 +181,7 @@
 
   if (mail == 'success') {
     var pesanEmail = document.getElementById('alert');
-        pesanEmail.style.background = "#0a0a0a";
+        pesanEmail.style.display = "block";
         pesanEmail.innerHTML = '<i class="fas fa-envelope-open-text"></i> Message sent successfully!';
     
     setTimeout(function() {
@@ -202,6 +202,7 @@
     rootStyle.style.setProperty('--bg-section-project', "#141414");
     
     var darkInfo = document.getElementById('alert');
+        darkInfo.style.display = "block";
         darkInfo.style.background = "#0a0a0a";
         darkInfo.innerHTML = '<i class="fas fa-moon-stars"></i> Your smartphone in dark mode';
         
