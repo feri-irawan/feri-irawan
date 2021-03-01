@@ -184,8 +184,8 @@ if (mail == 'success') {
  
   var pesanEmail = document.getElementById('message-status').innerHTML = '<i class="fas fa-envelope-open-text"></i> Message sent successfully!';
   setTimeout(function() {
-        pesanEmail.remove();
-    }, 5000);
+    document.getElementById('message-status').remove();
+  }, 5000);
 
   console.log(mailSuccess);
 } else {
@@ -210,7 +210,7 @@ if(matched) {
   document.getElementById('alert').appendChild(darkInfo);
   
   setTimeout(function() {
-    document.getElementById('message-status').remove();
+    darkInfo.remove();
    }, 5000);
    
 	console.log('Currently in dark mode');
