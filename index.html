@@ -201,11 +201,9 @@
     rootStyle.style.setProperty('--color-white', "#8d8c8b");
     rootStyle.style.setProperty('--bg-section-project', "#141414");
     
-    var darkInfo = document.createElement('div');
-        darkInfo.className = 'darkmode-info';
+    var darkInfo = document.getElementById('alert');
         darkInfo.innerHTML = '<i class="fas fa-moon-stars"></i> Your smartphone in dark mode';
-    document.getElementById('alert').appendChild(darkInfo);
-    
+        
     setTimeout(function() {
       darkInfo.remove();
      }, 5000);
