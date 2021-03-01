@@ -179,11 +179,10 @@ var urlParams = new URLSearchParams(queryString);
 var mail = urlParams.get('mail');
 if (mail == 'success') {
 
-  var pesanEmail = document.createElement('div');
-  pesanEmail.className = 'pesan-email';
-  pesanEmail.innerHTML = '<i class="fas fa-envelope-open-text"></i> Message sent successfully!';
-  document.getElementById('alert').appendChild(pesanEmail);
-  
+  //var pesanEmail = document.createElement('div');
+  //pesanEmail.className = 'pesan-email';
+ 
+  var pesanEmail = document.getElementById('message-status').innerHTML = '<i class="fas fa-envelope-open-text"></i> Message sent successfully!';
   setTimeout(function() {
         pesanEmail.remove();
     }, 5000);
