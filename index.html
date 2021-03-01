@@ -223,5 +223,23 @@ if(matched) {
 }
 </script>
 
+<!-- Jquery -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script>
+$(document).ready(function() { 
+    $("#contact-me").submit(function(e) {
+        e.preventDefault();
+        $.ajax({
+            url: 'http://contohku.epizy.com/mail.php',
+            type: 'get',
+            data: $(this).serialize(),             
+            success: function(data) {               
+            document.getElementById("contact-me").reset();
+            $('#message-status').html(data);              
+            }
+        });
+    });
+});
+</script>
 </body>
 </html>
