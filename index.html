@@ -170,53 +170,48 @@
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
 <script>
   AOS.init();
 
-let queryString = window.location.search;
-console.log(queryString);
-var urlParams = new URLSearchParams(queryString);
-var mail = urlParams.get('mail');
-if (mail == 'success') {
+  //Contact
+  let queryString = window.location.search;
+  console.log(queryString);
+  var urlParams = new URLSearchParams(queryString);
+  var mail = urlParams.get('mail');
 
-  //var pesanEmail = document.createElement('div');
-  //pesanEmail.className = 'pesan-email';
- 
-  var pesanEmail = document.getElementById('message-status').innerHTML = '<i class="fas fa-envelope-open-text"></i> Message sent successfully!';
-  setTimeout(function() {
-    document.getElementById('message-status').remove();
-  }, 5000);
-
-  console.log(mailSuccess);
-} else {
-  console.log('error mail');
-}
-
-//Detect DARK MODE
-let matched = window.matchMedia('(prefers-color-scheme: dark)').matches;
-
-if(matched) {
-  let rootStyle = document.documentElement;
-  rootStyle.style.setProperty('--bg-white', "#0a0a0a");
-  rootStyle.style.setProperty('--bg-jumbotron', "#005b80");
-  rootStyle.style.setProperty('--bg-semi-transparent', "#005b80ad");
-  rootStyle.style.setProperty('--color', "#8d8c8b");
-  rootStyle.style.setProperty('--color-white', "#8d8c8b");
-  rootStyle.style.setProperty('--bg-section-project', "#141414");
+  if (mail == 'success') {
+    var pesanEmail = document.getElementById('message-status');
+        pesanEmail.innerHTML = '<i class="fas fa-envelope-open-text"></i> Message sent successfully!';
+    
+    setTimeout(function() {
+      pesanEmail'.remove();
+    }, 5000);
+  }
   
-  var darkInfo = document.createElement('div');
-  darkInfo.className = 'darkmode-info';
-  darkInfo.innerHTML = '<i class="fas fa-moon-stars"></i> Your smartphone in dark mode';
-  document.getElementById('alert').appendChild(darkInfo);
+  //Detect Dark Mode
+  let matched = window.matchMedia('(prefers-color-scheme: dark)').matches;
   
-  setTimeout(function() {
-    darkInfo.remove();
-   }, 5000);
-   
-	console.log('Currently in dark mode');
-} else {
-	console.log('Currently not in dark mode');
-}
+  if(matched) {
+    let rootStyle = document.documentElement;
+    rootStyle.style.setProperty('--bg-white', "#0a0a0a");
+    rootStyle.style.setProperty('--bg-jumbotron', "#005b80");
+    rootStyle.style.setProperty('--bg-semi-transparent', "#005b80ad");
+    rootStyle.style.setProperty('--color', "#8d8c8b");
+    rootStyle.style.setProperty('--color-white', "#8d8c8b");
+    rootStyle.style.setProperty('--bg-section-project', "#141414");
+    
+    var darkInfo = document.createElement('div');
+        darkInfo.className = 'darkmode-info';
+        darkInfo.innerHTML = '<i class="fas fa-moon-stars"></i> Your smartphone in dark mode';
+    document.getElementById('alert').appendChild(darkInfo);
+    
+    setTimeout(function() {
+      darkInfo.remove();
+     }, 5000);
+     
+  	console.log('Currently in dark mode');
+  }
 </script>
 </body>
 </html>
