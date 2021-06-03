@@ -1,9 +1,10 @@
-## <div align="center"> Hi, 👋 I am Feri Irawan </div>
+## <div align="center"> Hi, :wave: I am Feri Irawan </div>
 
-_Making something to help lots of people.&hearts;_
+_Making something to help lots of people..:hearts:_
 
  I am a student of SMP Negeri 40 Bukukumba Regency, South Sulawesi, Indonesia.
  - I'm learning Programming Self-taught
+ - Nggak Bisa Bahasa Enggress :laughing:
 
 ## Saya bisa
 <div align="center">
