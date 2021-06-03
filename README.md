@@ -1,8 +1,9 @@
 ## <div align="center"> Hi, 👋 I am Feri Irawan </div>
-_Membuat sesuatu untuk membantu banyak orang. &hearts;_
 
-Saya adalah siswa SMP Negeri 40 Bukukumba, Sulawesi Selatan, Indonesia.
-- Saya sedang belajar Pemrograman secara Otodidak
+_Making something to help lots of people.&hearts;_
+
+ I am a student of SMP Negeri 40 Bukukumba Regency, South Sulawesi, Indonesia.
+ - I'm learning Programming Self-taught
 
 ## Saya bisa
 <div align="center">
