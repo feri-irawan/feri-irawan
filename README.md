@@ -2,7 +2,7 @@
 
 _Making something to help lots of people..:hearts:_
 
- I am a student of SMP Negeri 40 Bukukumba regency, South Sulawesi, Indonesia.
+ I am a student of SMP Negeri 40 Bukukumba, South Sulawesi, Indonesia.
  - I'm learning Programming Self-taught
  - Nggak Bisa Bahasa Enggress :laughing:
 
