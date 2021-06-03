@@ -6,7 +6,6 @@ _Making something to help lots of people..:hearts:_
  - I'm learning Programming Self-taught
  - Nggak Bisa Bahasa Enggress :laughing:
 
-## <div align="center"> I can </div>
 <div align="center">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
