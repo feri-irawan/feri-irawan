@@ -19,3 +19,7 @@ I am a student of SMP Negeri 40 Bukukumba, South Sulawesi, Indonesia.
   <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=feri-irawan" alt="Feri Irawan Stat">
+</div>
