@@ -21,5 +21,5 @@ I am a student of SMP Negeri 40 Bukukumba, South Sulawesi, Indonesia.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=feri-irawan" alt="Feri Irawan Stat">
+  <img src="https://github-readme-stats.vercel.app/api?username=feri-irawan&show_icons=true&theme=radical" alt="Feri Irawan Stat">
 </div>
