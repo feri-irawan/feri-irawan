@@ -20,6 +20,6 @@ I am a student of SMP Negeri 40 Bukukumba, South Sulawesi, Indonesia.
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=feri-irawan&show_icons=true&theme=radical" alt="Feri Irawan Stat">
-</div>
+[![Feri Irawan Github Stats](https://github-readme-stats.vercel.app/api/?username=feri-irawan&show_icons=true&theme=radical)](https://github.com/feri-irawan/feri-irawan)
+
+[![Feri Irawan API](https://github-readme-stats.vercel.app/api/pin/?username=feri-irawan&repo=API&show_icons=true&theme=radical)](https://github.com/feri-irawan/API)
