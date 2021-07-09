@@ -1,5 +1,7 @@
 ## <div align="center"> Hi, :wave: I am Feri Irawan </div>
 
+![Views](https://feriirawan.herokuapp.com?username=feri-irawan&repo=feri-irawan&token=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)
+
 _Making something to help lots of people..:hearts:_
 
 I am a student of SMP Negeri 40 Bukukumba, South Sulawesi, Indonesia.
