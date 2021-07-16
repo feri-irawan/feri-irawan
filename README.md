@@ -2,7 +2,7 @@
 
 ![Views](https://fibadge.herokuapp.com?style=for-the-badge&username=feri-irawan&repo=feri-irawan&traffic=views&token=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&label=VIEWS)
 
-_Making something to help lots of people..:hearts:_
+_Making something to help lots of people.._
 
 I am a student of SMP Negeri 40 Bukukumba, South Sulawesi, Indonesia.
 - I'm learning Programming Self-taught
