@@ -1,8 +1,8 @@
 ## <div align="center"> Hi, :wave: I am Feri Irawan </div>
 
-![Views](https://fibadge.herokuapp.com?style=for-the-badge&username=feri-irawan&repo=feri-irawan&traffic=views&token=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&label=VIEWS)
+![Views](https://fibadge.herokuapp.com?style=for-the-badge&username=feri-irawan&repo=feri-irawan&traffic=views&token=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&label=VIEWS)
 
-_Making something to help lots of people.._
+_Making something to help lots of people..❤️_
 
 I am a student of SMP Negeri 40 Bukukumba, South Sulawesi, Indonesia.
 - I'm learning Programming Self-taught
