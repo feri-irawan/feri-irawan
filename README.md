@@ -4,7 +4,7 @@
 
 _Making something to help lots of people..❤️_
 
-I am a student of SMP Negeri 40 Bukukumba, South Sulawesi, Indonesia.
+Student of SMP Negeri 40 Bukukumba, South Sulawesi, Indonesia.
 - I'm learning Programming Self-taught
 - Nggak Bisa Bahasa Enggress :laughing:
 
