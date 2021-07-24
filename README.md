@@ -1,6 +1,6 @@
 ## <div align="center"> Hi, :wave: I am Feri Irawan </div>
 
-![Views](https://fibadge.herokuapp.com?style=for-the-badge&username=feri-irawan&repo=feri-irawan&traffic=views&token=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&label=VIEWS)
+![Views](https://fibadge.herokuapp.com?style=for-the-badge&username=feri-irawan&repo=feri-irawan&traffic=views&token=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&label=VIEWS)
 
 _Making something to help lots of people..❤️_
 
