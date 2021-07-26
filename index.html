@@ -185,7 +185,7 @@
     let queryString = window.location.search;
     console.log(queryString);
     var urlParams = new URLSearchParams(queryString);
-    var mail = urlParams.get('mail');
+    var mail = urlParams.get('redirect_message');
 
     if (mail == 'success') {
       var pesanEmail = document.getElementById('alert');
