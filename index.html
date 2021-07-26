@@ -125,18 +125,25 @@
       <h2 class="title" data-aos="fade-up">Contact Me</h2>
       <form id="contact-me" action="http://gomail.epizy.com/mail" method="get" enctype="multipart/form-data">
         <div class="input-group" data-aos="fade-right">
-          <input type="text" name="nama" required>
-          <label for="nama" class="label-float">Name</label>
+          <input type="text" name="name" id="name" required>
+          <label for="name" class="label-float">Name</label>
         </div>
         <div class="input-group" data-aos="fade-right">
-          <input type="email" name="email" required>
+          <input type="email" name="email" id="email" required>
           <label for="email" class="label-float">Email</label>
         </div>
         <div class="input-group" data-aos="fade-right">
-          <textarea name="isi" rows="5" required></textarea>
-          <label for="isi" class="label-float">Message</label>
+          <textarea name="message" rows="5" id="message" required></textarea>
+          <label for="message" class="label-float">Message</label>
         </div>
-        <button data-aos="fade-right" type="submit" name="btnSubmit" class="btn fz-14">Send</button>
+
+        <button data-aos="fade-right" type="submit" name="submit" class="btn fz-14">Send</button>
+
+        <input type="hidden" name="subject" id="subject" value="Portfolio Message" />
+        <input type="hidden" name="message_type" id="message_type" value="simple" />
+        <input type="hidden" name="destination_name" id="destination_name" value="Feri Irawan" />
+        <input type="hidden" name="email_destination" id="email_destination" value="feriirawan.akun@gmail.com" />
+
       </form>
     </div>
 
