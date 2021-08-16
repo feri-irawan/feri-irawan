@@ -1,6 +1,6 @@
 ## <div align="center"> Hi, :wave: I am Feri Irawan </div>
 
-![](https://visitor-badge.feriirawann.repl.co?username=feri-rawan&repo=feri-irawan)
+![](https://visitor-badge.feriirawann.repl.co?username=feri-irawan&repo=feri-irawan)
 
 _Making something to help lots of people..❤️_
 
