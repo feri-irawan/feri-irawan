@@ -10,10 +10,10 @@ Student of SMP Negeri 40 Bulukumba, South Sulawesi, Indonesia.
 
 <div align="center">
   
-[![Feri Irawan API](https://fibadge.vercel.app/cards/github/repo/feri-irawan/API)](https://github.com/feri-irawan/API)
+[![Feri Irawan API](https://fibadge.vercel.app/cards/github/repo/feri-irawan/API?addVisitor=true)](https://github.com/feri-irawan/API)
   
-[![Visitor Badge](https://fibadge.vercel.app/cards/github/repo/feri-irawan/visitor-badge)](https://github.com/feri-irawan/visitor-badge)
+[![Visitor Badge](https://fibadge.vercel.app/cards/github/repo/feri-irawan/visitor-badge?addVisitor=true)](https://github.com/feri-irawan/visitor-badge)
 
-[![FiBadge](https://fibadge.vercel.app/cards/github/repo/feri-irawan/fibadge)](https://github.com/feri-irawan/fibadge)
+[![FiBadge](https://fibadge.vercel.app/cards/github/repo/feri-irawan/fibadge?addVisitor=true)](https://github.com/feri-irawan/fibadge)
 
 </div>
