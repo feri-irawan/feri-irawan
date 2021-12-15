@@ -10,16 +10,16 @@ Student of SMP Negeri 40 Bulukumba, South Sulawesi, Indonesia.
 
 <div align="center">
   
-  [<img src="https://fibadge.vercel.app/cards/github/repo/feri-irawan/Jadwal-Sholat" />](https://github.com/feri-irawan/Jadwal-Sholat)
-  
+  [<img src="https://fibadge.vercel.app/cards/github/repo/feri-irawan/API?addVisitor=true" />](https://github.com/feri-irawan/API)
+    
   [<img src="https://fibadge.vercel.app/cards/github/repo/feri-irawan/fibadge?addVisitor=true" />](https://github.com/feri-irawan/fibadge)
 
-  [<img src="https://fibadge.vercel.app/cards/github/repo/feri-irawan/API?addVisitor=true" />](https://github.com/feri-irawan/API)
-
   [<img src="https://fibadge.vercel.app/cards/github/repo/feri-irawan/visitor-badge?addVisitor=true" />](https://github.com/feri-irawan/visitor-badge)
-
-  [<img src="https://fibadge.vercel.app/cards/github/repo/feri-irawan/Live-Chat" />](https://github.com/feri-irawan/Live-Chat)
-
-  [<img src="https://fibadge.vercel.app/cards/github/repo/feri-irawan/API?addVisitor=true" />](https://github.com/feri-irawan/API)
+  
+  [<img src="https://fibadge.vercel.app/cards/github/repo/feri-irawan/bshadeui-web?addVisitor=true" />](https://github.com/feri-irawan/bshadeui-web)
+  
+  [<img src="https://fibadge.vercel.app/cards/github/repo/feri-irawan/Jadwal-Sholat?addVisitor=true" />](https://github.com/feri-irawan/Jadwal-Sholat)
+  
+  [<img src="https://fibadge.vercel.app/cards/github/repo/feri-irawan/Live-Chat?addVisitor=true" />](https://github.com/feri-irawan/Live-Chat)
 
 </div>
