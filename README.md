@@ -8,12 +8,18 @@ Student of SMP Negeri 40 Bulukumba, South Sulawesi, Indonesia.
 - I'm learning Programming Self-taught
 - Nggak Bisa Bahasa Enggress :laughing:
 
-<div align="center">
-  
-[![Feri Irawan API](https://fibadge.vercel.app/cards/github/repo/feri-irawan/API?addVisitor=true)](https://github.com/feri-irawan/API)
-  
-[![Visitor Badge](https://fibadge.vercel.app/cards/github/repo/feri-irawan/visitor-badge?addVisitor=true)](https://github.com/feri-irawan/visitor-badge)
 
-[![FiBadge](https://fibadge.vercel.app/cards/github/repo/feri-irawan/fibadge?addVisitor=true)](https://github.com/feri-irawan/fibadge)
+  
 
-</div>
+[<img align="right" src="https://fibadge.vercel.app/cards/github/repo/feri-irawan/Jadwal-Sholat" />](https://github.com/feri-irawan/Jadwal-Sholat)
+
+[<img align="left" src="https://fibadge.vercel.app/cards/github/repo/feri-irawan/fibadge?addVisitor=true" />](https://github.com/feri-irawan/fibadge)
+
+[<img align="right" src="https://fibadge.vercel.app/cards/github/repo/feri-irawan/API?addVisitor=true" />](https://github.com/feri-irawan/API)
+
+
+[<img align="left" src="https://fibadge.vercel.app/cards/github/repo/feri-irawan/visitor-badge?addVisitor=true" />](https://github.com/feri-irawan/visitor-badge)
+
+[<img align="right" src="https://fibadge.vercel.app/cards/github/repo/feri-irawan/Live-Chat" />](https://github.com/feri-irawan/Live-Chat)
+
+[<img align="left" src="https://fibadge.vercel.app/cards/github/repo/feri-irawan/API?addVisitor=true" />](https://github.com/feri-irawan/API)
