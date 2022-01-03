@@ -1,6 +1,6 @@
 ## <div align="center"> Hi, :wave: I am Feri Irawan </div>
 
-![](https://visitor-badges.glitch.me?username=feri-irawan&repo=feri-irawan&style=for-the-badge&contentType=svg)
+![](https://fibadge.vercel.app/badges/visitors/feri-irawan/feri-irawan)
 
 _Making something to help lots of people..❤️_
 
