@@ -1,6 +1,7 @@
 ## <div align="center"> Hi, :wave: I am Feri Irawan </div>
 
 ![](https://fibadge.vercel.app/badges/visitors/feri-irawan/feri-irawan)
+[![](https://img.shields.io/static/v1?label=&message=Saweria&logo=githubsponsors&logoColor=white&style=for-the-badge&color=orange)](https://saweria.co/feriirawans)
 
 _Making something to help lots of people..❤️_
 
